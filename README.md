@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey, I'm Sentox
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sentoxaio)](https://twitter.com/sentoxaio)
+[![GitHub followers](https://img.shields.io/github/followers/kalek-ae.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/users/follow?target=SentoxAIO)
 
-<!--
-**SentoxAIO/SentoxAIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am a 16 years old self-taught developer from Germany.
 
-Here are some ideas to get you started:
+My interests include:
+- Reverse Engineering (Website Checkout Flow)
+- Fullstack Web Development (.NET Core & Angular)
+- Learning New Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ![My current stack:](https://github-readme-stats.vercel.app/api?username=sentoxaio&count_private=true)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kalek-ae&count_private=true&show_icons=true&theme=graywhite&hide=issues" width="50%" height="50%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalek-ae&layout=compact&hide=css" width="40%" height="40%"/>
