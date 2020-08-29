@@ -5,8 +5,8 @@
 #### I am a 16 years old self-taught developer from Germany.
 
 - Reverse Engineering (Website Checkout Flow)
-- Fullstack Development (Electron & React)
-- Mobile Development (Swift & React-Native)
+- Fullstack Development (Electron & learning React)
+- Mobile Development (Swift & learning React-Native)
 
 #### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=sentoxaio&count_private=true&show_icons=true&theme=graywhite&hide=issues" width="50%" height="50%" />
