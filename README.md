@@ -8,7 +8,10 @@
 - Fullstack Development (Electron & React)
 - Mobile Development (Swift & React-Native)
 
+#### Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sentoxaio&count_private=true&show_icons=true&theme=graywhite&hide=issues" width="50%" height="50%" />
 
-#### Stats
+<p  align="center">
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sentoxaio" alt="visitor badge"/>       
+</p>
