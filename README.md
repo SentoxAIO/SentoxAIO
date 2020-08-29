@@ -8,6 +8,6 @@
 - Fullstack Development (Electron & learning React)
 - Mobile Development (Swift & learning React-Native)
 
-#### Stats
+#### Stats: 
 <img src="https://github-readme-stats.vercel.app/api?username=sentoxaio&count_private=true&show_icons=true&theme=graywhite&hide=issues" width="50%" height="50%" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sentoxaio" alt="visitor badge"/>       
