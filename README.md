@@ -12,4 +12,4 @@ My interests include:
 #### Experience
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sentoxaio&count_private=true&show_icons=true&theme=graywhite&hide=issues" width="50%" height="50%" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sentoxaio&layout=compact" width="40%" height="40%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sentoxaio&layout=compact&count_private=true" width="40%" height="40%"/>
