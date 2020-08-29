@@ -4,12 +4,9 @@
 
 #### I am a 16 years old self-taught developer from Germany.
 
-My interests include:
 - Reverse Engineering (Website Checkout Flow)
-- Fullstack Web Development (.NET Core & Angular)
-- Learning New Technologies
-
-#### Experience
+- Fullstack Development (Electron & React)
+- Mobile Development (Swift & React-Native)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sentoxaio&count_private=true&show_icons=true&theme=graywhite&hide=issues" width="50%" height="50%" />
 
