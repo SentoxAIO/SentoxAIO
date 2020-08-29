@@ -9,7 +9,7 @@ My interests include:
 - Fullstack Web Development (.NET Core & Angular)
 - Learning New Technologies
 
-#### ![My current stack:](https://github-readme-stats.vercel.app/api?username=sentoxaio&count_private=true)
+#### Experience
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kalek-ae&count_private=true&show_icons=true&theme=graywhite&hide=issues" width="50%" height="50%" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalek-ae&layout=compact&hide=css" width="40%" height="40%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sentoxaio&count_private=true&show_icons=true&theme=graywhite&hide=issues" width="50%" height="50%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sentoxaio&layout=compact&hide=css" width="40%" height="40%"/>
