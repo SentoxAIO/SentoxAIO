@@ -4,6 +4,7 @@
 
 #### I am a 16 years old self-taught developer from Germany.
 
+#### Skills: 
 - Reverse Engineering (Website Checkout Flow)
 - Fullstack Development (Electron & learning React)
 - Mobile Development (Swift & learning React-Native)
