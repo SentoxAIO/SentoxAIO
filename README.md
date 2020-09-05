@@ -6,7 +6,8 @@
 
 #### Skills: 
 - Reverse Engineering (Website Checkout Flow)
-- Fullstack Development (Electron & learning React)
+- Frontend Development (HTML, CSS & learning React)
+- Backend Development (Node, TS)
 - Mobile Development (Swift & learning React-Native)
 
 #### Stats: 
