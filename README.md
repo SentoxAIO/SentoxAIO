@@ -5,10 +5,10 @@
 #### I am a 16 years old self-taught developer from Germany.
 
 #### Skills: 
-- Reverse Engineering (Website Checkout Flow)
-- Frontend Development (HTML, CSS & learning React)
+- Reverse Engineering
+- Frontend Development (HTML, CSS & React)
 - Backend Development (Node, TS)
-- Mobile Development (Swift & learning React-Native)
+- Mobile Development (React-Native)
 
 #### Stats: 
 <img src="https://github-readme-stats.vercel.app/api?username=sentoxaio&count_private=true&show_icons=true&theme=graywhite&hide=issues" width="50%" height="50%" />
