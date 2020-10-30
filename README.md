@@ -2,8 +2,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sentoxaio)](https://twitter.com/sentoxaio)
 [![GitHub followers](https://img.shields.io/github/followers/sentoxaio.svg?style=social&label=Follow)](https://github.com/SentoxAIO)
 
-#### I am a 16 years old self-taught developer from Germany.
-
 #### Skills: 
 - Reverse Engineering
 - Frontend Development (HTML, CSS & React)
