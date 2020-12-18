@@ -3,11 +3,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/sentoxaio.svg?style=social&label=Follow)](https://github.com/SentoxAIO)
 
 #### Skills: 
-- Reverse Engineering
 - Frontend Development (HTML, CSS & React)
 - Backend Development (Node, TS)
 - Mobile Development (React-Native)
+- Reverse Engineering
 
-#### Stats: 
+#### Statistics: 
 <img src="https://github-readme-stats.vercel.app/api?username=sentoxaio&count_private=true&show_icons=true&theme=graywhite&hide=issues" width="50%" height="50%" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sentoxaio" alt="visitor badge"/>       
