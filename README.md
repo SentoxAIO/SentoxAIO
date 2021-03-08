@@ -3,9 +3,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/sentoxaio.svg?style=social&label=Follow)](https://github.com/SentoxAIO)
 
 #### Skills: 
-- Frontend Development (HTML, CSS & React)
-- Backend Development (Node, TS)
-- Mobile Development (React-Native)
+- Frontend Development
+- Backend Development
+- Mobile Development
 - Reverse Engineering
 
 #### Statistics: 
